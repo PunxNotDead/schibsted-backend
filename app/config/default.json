@@ -1,0 +1,5 @@
+{
+	"port": 3001,
+	"interfaceDatetime": "DD.MM.YYYY HH:mm",
+	"fullDatetime": "YYYY-MM-DD HH:mm:ss"
+}
