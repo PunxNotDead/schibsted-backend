@@ -1,5 +1,10 @@
 {
 	"port": 3001,
 	"interfaceDatetime": "DD.MM.YYYY HH:mm",
-	"fullDatetime": "YYYY-MM-DD HH:mm:ss"
+	"fullDatetime": "YYYY-MM-DD HH:mm:ss",
+	"location": "50.0617595,19.9368002",
+	"apiKey": "AIzaSyA1aZwDVX9ZrNsZdxUMxEEzDcvbR-HzC48",
+	"radius": 2000,
+	"locationType": "bar",
+	"searchUrl": "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
 }

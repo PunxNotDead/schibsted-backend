@@ -1,7 +1,11 @@
 'use strict';
 
+const Search = require('../services/search');
+
 function list(req, res) {
-	res.json({a: 1});
+	Search.search().then(content => {
+		res.json(content);
+	});
 }
 
 exports.list = list;

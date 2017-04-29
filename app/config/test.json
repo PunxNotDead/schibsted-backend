@@ -5,7 +5,7 @@
 		"mongooseOptions": {}
 	},
 	"log": {
-		"name": "art",
+		"name": "test",
 		"streams": [
 			{
 				"level": "debug",

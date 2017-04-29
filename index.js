@@ -15,6 +15,11 @@ if (cluster.isMaster) {
 	for (let i = 0; i < cpus; i++) {
 		cluster.fork();
 	}
+
+	cluster.on('exit', worker => {
+		console.log(`Worker ${worker.id} exited, respawning...`);
+		cluster.fork();
+	});
 } else {
 	const app = express();
 

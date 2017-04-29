@@ -1,11 +1,12 @@
 {
 	"mongodb": {
 		"host": "127.0.0.1/schibsted_task",
-		"mongooseOptions": {}
+		"mongooseOptions": {},
+		"recordExpirationSeconds": 86400
 	},
 
 	"log": {
-		"name": "art",
+		"name": "development",
 		"streams": [
 			{
 				"level": "debug",
