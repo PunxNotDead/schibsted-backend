@@ -9,26 +9,36 @@ function processRawSearchResults(response) {
 	const results = response && response.results ? response.results : [];
 
 	return _.map(results, ({id, icon, name, opening_hours, rating, vicinity}) => ({
-		id,
-		icon,
-		name,
-		opening_hours,
-		rating,
-		vicinity
-	})
+			id,
+			icon,
+			name,
+			openingHours: opening_hours,
+			rating,
+			vicinity
+		})
 	);
 }
 
-function saveSearchRequest(data) {
-	const item = new SearchRequest(data);
+function saveSearchRequest(query) {
+	return response => {
+		const results = processRawSearchResults(response);
 
-	return item.save();
+		const item = new SearchRequest({
+			query,
+			results,
+			nextPageToken: response.next_page_token
+		});
+
+		return item.save().then(() => results);
+	};
 }
 
-function search(query) {
-	SearchRequest.findOne({
-		query: query
-	}).exec().then(item => {
+function search(query = '') {
+	return SearchRequest.findOne({
+		query
+	})
+	.exec()
+	.then(item => {
 		if (item) {
 			return item.results;
 		}
@@ -39,7 +49,8 @@ function search(query) {
 				location: config.get('location'),
 				key: config.get('apiKey'),
 				radius: config.get('radius'),
-				type: config.get('locationType')
+				type: config.get('locationType'),
+				keyword: query
 			},
 			headers: {
 				'User-Agent': 'Request-Promise'
@@ -48,8 +59,7 @@ function search(query) {
 		};
 
 		return request(options)
-			.then(processRawSearchResults)
-			.then(saveSearchRequest);
+			.then(saveSearchRequest(query));
 	});
 }
 

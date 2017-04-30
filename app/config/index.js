@@ -18,7 +18,7 @@ console.log('Configuring environment from %s.json', env);
 
 nconf.argv()
 	.env()
-	.file('environmentConfig', path.join(__dirname, env + '.json'))
+	.file('environmentConfig', path.join(__dirname, `${env}.json`))
 	.defaults(defaults);
 
 switch (env) {

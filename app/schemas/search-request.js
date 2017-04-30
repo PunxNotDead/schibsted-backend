@@ -1,4 +1,3 @@
-/* eslint no-invalid-this: 0 */
 'use strict';
 
 const mongoose = require('mongoose');
@@ -12,35 +11,29 @@ const SearchRequestSchema = new Schema({
 		type: String,
 		trim: true,
 		default: '',
+		index: {
+			unique: true
+		}
 	},
 
 	results: [{
-		id: {
-			type: String,
-			trim: true,
-			default: '',
-		},
-		icon: {
-			type: String,
-			trim: true,
-			default: '',
-		},
-		name: {
-			type: String,
-			trim: true,
-			default: '',
-		},
-		opening_hours: {
-			open_now: Boolean
+		id: String,
+		icon: String,
+		name: String,
+		openingHours: {
+			openNow: Boolean
 		},
 		rating: Number,
 		vicinity: String
 	}],
+
 	createdAt: {
 		type: Date,
 		expires: config.get('mongodb:recordExpirationSeconds'),
 		default: Date.now
-	}
+	},
+
+	nextPageToken: String
 });
 
 module.exports = SearchRequestSchema;

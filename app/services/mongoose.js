@@ -9,6 +9,6 @@ mongoose.Promise = bluebird;
 mongoose.connect(config.get('mongodb:host'), config.get('mongodb:mongooseOptions') || {});
 
 mongoose.model('Place', require('../schemas/place'), 'places');
-mongoose.model('SearchRequest', require('../schemas/search-request'), 'search_request');
+mongoose.model('SearchRequest', require('../schemas/search-request'), 'search_requests');
 
 module.exports = mongoose;
