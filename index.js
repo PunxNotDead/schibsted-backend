@@ -8,19 +8,11 @@ const cluster = require('cluster');
 const cpus = require('os').cpus().length;
 
 const apiRouter = require('./app/api_router');
-const config = require('./app/config')
+const config = require('./app/config');
 
+let server = null;
 
-if (cluster.isMaster) {
-	for (let i = 0; i < cpus; i++) {
-		cluster.fork();
-	}
-
-	cluster.on('exit', worker => {
-		console.log(`Worker ${worker.id} exited, respawning...`);
-		cluster.fork();
-	});
-} else {
+function createServer() {
 	const app = express();
 
 	app.use(bodyParser.urlencoded({ extended: true }));
@@ -36,10 +28,31 @@ if (cluster.isMaster) {
 		});
 	});
 
-	const server = app.listen(config.get('port'), () => {
-		let host = server.address().address;
-		let port = server.address().port;
+	const serverInstance = app.listen(config.get('port'), () => {
+		let host = serverInstance.address().address;
+		let port = serverInstance.address().port;
 
 		console.log('Listening at http://%s:%s', host, port);
 	});
+
+	return serverInstance;
 }
+
+if (!config.get('clusterMode')) {
+	server = createServer();
+} else {
+	if (cluster.isMaster) {
+		for (let i = 0; i < cpus; i++) {
+			cluster.fork();
+		}
+
+		cluster.on('exit', worker => {
+			console.log(`Worker ${worker.id} exited, respawning...`);
+			cluster.fork();
+		});
+	} else {
+		createServer();
+	}
+}
+
+module.exports = server;

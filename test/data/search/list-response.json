@@ -1,0 +1,936 @@
+{
+	"html_attributions": [],
+	"next_page_token": "CoQCAAEAAL8IPUcGnuSWs-fHVmIa45kRmJC3ano-4nuPzWzBOE495_sRDzJJE87c_mbWbKYznqzvuUhxijK2lrK3CqoXoI3Ji2sQC6cyxKTKvo8AvFzbNXjOS8qy1fquXPZ_IJKxklsS8qGZEdVqrDoXZ3y7AAfdnyQgD5CvcShHBz8jk4SeJqo1O7e4uhbJJAatYjY1dBUSukbZKkILbUXds_6KQ5Eauogvv4GtUtUrhdqTv4DHSGHznbI-CdM205Ovn-_hvRPd8OpgaoJbdXOkp3V5gxPc--5al0Xzi32PYS_BW7gm_1dlkRRqJJS3jNytP32aENsqy4PDLO-CXCdo3vtQTd8SEAF1imvhn5kXaFetCiRoR9YaFGKuufM27sfJ3B1ML9aDPz7RHwva",
+	"results": [
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0582994,
+					"lng": 19.9331447
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0596714802915,
+						"lng": 19.9346263802915
+					},
+					"southwest": {
+						"lat": 50.0569735197085,
+						"lng": 19.9319284197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+			"id": "155bcf5213b0ed87943a27cd88a3ad3be3207bba",
+			"name": "Radisson Blu Hotel, Krakow",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 3120,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/114685460667746634128/photos\">Justyna Woszczyna</a>"
+					],
+					"photo_reference": "CoQBdwAAABDTchUpflslYEifKClvOGzG_R011moxo5CVlFpBrLUbtOAFCn_Od7uy4DR7ic2_5TJaAOu7v-zvtAo4tLaM9ZryqvwQEBYXBr3KsJ1vjCyEx4yqd73TjcLYi1nlt35uSUy9kHDIX5sEr8_3TkpdXxx4AENO_wz1XO5Xq6554E6CEhAFw6k4BOBlKucASLSCFxkAGhSLoBwRPFMklg4xD3OCaPELqttboQ",
+					"width": 4160
+				}
+			],
+			"place_id": "ChIJpXNtPg1bFkcR770s5OVqBuY",
+			"rating": 4.3,
+			"reference": "CmRSAAAA81bpLVJ6rMDBXrC048TRX-DcfdGJt4F74cHZNWXQQ9j4LhWfPI11wlhkC2cokWiqZBzUS9_1oP4TzJZa_JBaT1MbqfPCoskfLHIkA5XZIXa1RnstNKzjWw1iN45q1n4PEhDQ90CfD7_S6f_auUi-XA80GhT4Mr5PBEwpmQcItQnw3vG7shpczg",
+			"scope": "GOOGLE",
+			"types": [
+				"gym",
+				"bar",
+				"lodging",
+				"health",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Straszewskiego 17, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.065624,
+					"lng": 19.945442
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0669768802915,
+						"lng": 19.9466104302915
+					},
+					"southwest": {
+						"lat": 50.0642789197085,
+						"lng": 19.9439124697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+			"id": "d361d4e282ac5569d0f12a9a3c6b3b844e2cbbe4",
+			"name": "andel's by Vienna House Cracow",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2358,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/100004286453129297407/photos\">Alfred Wilhelm Meier</a>"
+					],
+					"photo_reference": "CoQBdwAAAEU5LZ5hvt999M1nDZCyw8XLOQfIcbilB8gDvrWLprexY7qS7s0WIL3sYhWhTIZTVUiYbs0xDkgvWL4rGWNRFfFMxt_7EeCiYXcG3-QvURJQdBT6Ia2gdr6uXdXfHHHsSu9E581ciG3kv2nW6CbjKiOAvFKNwFROjPCQqB-RA7maEhC7JmuFL6N-xe-LOqUkOt5LGhTz5FCzsIBqz5jvLVQxP8wSMvxBAA",
+					"width": 4191
+				}
+			],
+			"place_id": "ChIJ8Tb4__8PFkcRwHm1b4IG3Zc",
+			"rating": 4.6,
+			"reference": "CmRSAAAAF3VCiCZNRtzSdn1qdfIhXEaLWPaFNqGHSFEZx48fT7aj8lBPICzKSqW0BZz5uvtzwtgNNpXOqn7az2yQQFVG_7uRcB7fMhiMeJx_w0dqkYyu5wJw84BKSL56fcYPa8t_EhDC2Uhi5G2JykmezevtXPkqGhSv7T6V4wiMuviq3P092suKc7d5fg",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"lodging",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Pawia 3, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.054891,
+					"lng": 19.926015
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0561522302915,
+						"lng": 19.9274717802915
+					},
+					"southwest": {
+						"lat": 50.0534542697085,
+						"lng": 19.9247738197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+			"id": "e7a15aa7eebef70168ead63e271fbc92fbf784fc",
+			"name": "Novotel Krakow Centrum",
+			"photos": [
+				{
+					"height": 1360,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/100448740188782174762/photos\">Novotel Kraków Centrum</a>"
+					],
+					"photo_reference": "CoQBdwAAAFS1isscosvOCAvV6NEQ33r2w50X-G_x-qExm18CPPA7BbvMLn--hXWhUUI63Ka1otzeP5SOhnyNG5lS1EDNBqB7zVCQEqP1jF3o1-nwE0wwHoMYYraR-uKR2t01cRSmyfDQel3ttqWr5oA3x0GpfhbwBRnd8trbznYhNAIpuUd_EhAzh8WMJEFSrKCBYD8D-JxzGhSff-U-aicTtXhYiFQtj3NeNguRPw",
+					"width": 2048
+				}
+			],
+			"place_id": "ChIJfaMUVAxbFkcRaJAu405D1Hk",
+			"rating": 4.2,
+			"reference": "CmRRAAAAaIqKlhf_96eP1ovo-bEpWhi8LfLvD2YX3TkjO65_66bHsZc0Lj4IaX7YSI7fKoKtxjyibO3RGNxAf9K5yWBNVDil8qkm6zmw4CuZbu0wkcDtPY-JucQedI7fRrbzJfBbEhAMOycCdsqxdZ25QnX8Rc4IGhTJTfaBXRwSIgXxrTd58b_QS6_1gQ",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"lodging",
+				"health",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Tadeusza Kościuszki 5, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0619576,
+					"lng": 19.9423792
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0633514302915,
+						"lng": 19.9437575302915
+					},
+					"southwest": {
+						"lat": 50.06065346970851,
+						"lng": 19.94105956970849
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "4119a1241b5e95d2c6d4a0e79d8d59375de88517",
+			"name": "House of Beer",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2048,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/103870586115931162971/photos\">House of Beer</a>"
+					],
+					"photo_reference": "CoQBdwAAANSIsQO4hi2CYzXnIiLjHM1TUIF8uWux0lP_m54PaMhZhmCUuTP4jGz5XXfUdUPvTlBuF2L3jYLi8sjTiTfUywO00Ym73jHn9CaPH0fIpHvtilpOGTXGLUeLnUQul_RTQxuWuA71vsfxga_xSU3Bsir7bPrsxfh_Wzheqr0TGD6kEhAmzB7cw1tsPez2ep47YEo_GhSsjVFweAw6PyVolFA5VqkTyL4Hqw",
+					"width": 1366
+				}
+			],
+			"place_id": "ChIJ49sOdRFbFkcRJVWbAzNeGKk",
+			"rating": 4.6,
+			"reference": "CmRSAAAAAEq6OPeWaPzeW0y4egxLEM1WJKkcx4_9oQ_HdsWyR1OJVGoiOsdkHXVkY2Kr-LGR4encUoNQ3FnHr2si5rb6_zUm03CiN_FAtM8zcmjC_qYS7tVwT9fYcmv_xbwVDnzdEhCVp_WD5cEs08KjNpWrNbJMGhTn5WgXlotskgTTQF6R1Sp36jXWIA",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Świętego Tomasza 35, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0520091,
+					"lng": 19.9446932
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0533326802915,
+						"lng": 19.9460789302915
+					},
+					"southwest": {
+						"lat": 50.0506347197085,
+						"lng": 19.9433809697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+			"id": "27bbc655ebc4f49026f37b3d64c3eea98a84ec72",
+			"name": "Secret Garden in Kazimierz - club",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2851,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/113307706309421709108/photos\">René van Dijk</a>"
+					],
+					"photo_reference": "CoQBdwAAAM25Yt8TOqBb1biMTyPGPbUE0_155JluFRAZVSWuibRSb3wM48EGARyG6JOchRobXBDRNlAwlg_ZJij0AXdEKa890z95G4UQLj9WNn5ElPuBmBti1TsrjW7rWlDSSTCy7kYZZJuCJPV1zf6CNK-r6U1OpwBwCjCP_gzLyJl1EEFWEhDkYatomNGn1jI_wW2Nr9LaGhSCTt5BV-nh1Uhy1h0QUIIX6pdIDw",
+					"width": 4132
+				}
+			],
+			"place_id": "ChIJFwWIW2pbFkcR3IuB-QZ3Dmo",
+			"rating": 4.1,
+			"reference": "CmRRAAAAHeIa-N4yXGzFo3IlYVfj1eX0raouxJ8TlgwhUeDB7aHvum1VIx-qBx8X-ikh9vYzqHfBDcl1xSgwcCdAHFiouPTXsxIV4MUN_n99jlyFlG6hmV2mtPPPArdudVzKC0D4EhClHL56Jua7yDbeUyXWq9XWGhT08YYsnXR00GlP3ivcQw9OT3JLCw",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "plac Nowy 9, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0748153,
+					"lng": 19.9377149
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0758437802915,
+						"lng": 19.9395198802915
+					},
+					"southwest": {
+						"lat": 50.0731458197085,
+						"lng": 19.9368219197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+			"id": "e502cc3e0d870431bf6d2d11813847baab25fa3f",
+			"name": "Forty Kleparz. Klub muzyczny",
+			"photos": [
+				{
+					"height": 2322,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/101052838579168040885/photos\">Gábor Kemenes</a>"
+					],
+					"photo_reference": "CoQBdwAAAHXRIqxFItI1eG2aWawY5r4SGVveyBOfNyLSdo8fIWtEaXIvxulk-HfiQLnYzMpoP-U9rlQFPvrvRPoGKL82lNEbzGEyMY1TjGqXbpBB-qfwT7G5QVkB3i2aHsmr2Mtim9OwQwln5RvZ6FHVLHVOs9hx9IKXDI9oz5YMdfUvOSCkEhCLWJGZx7QDEQr6ORiMWIe7GhR73ujzrQd4milaaUwXL22DXZajhA",
+					"width": 4128
+				}
+			],
+			"place_id": "ChIJIeEXDAFbFkcRhofqrbSjM88",
+			"rating": 4.2,
+			"reference": "CmRSAAAAnYO7-n2CwjXKSYA28zmC7Wfpk1arogjXA--8X7RLvQd95xGzU5XKRrtl_AW-w1m2U4s1b9jwqMTanYz_pbhmSpd_DB847QQBCDB4Jeu649BebqY1VbRbB0egY73mgL2QEhABw_hHni_u8mVGcCx0D9RrGhRTJWizcmNrvwoPqsUCfd7cQMCTZw",
+			"scope": "GOOGLE",
+			"types": [
+				"cafe",
+				"bar",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Kamienna 2, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0633935,
+					"lng": 19.9327086
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0647049302915,
+						"lng": 19.9341286802915
+					},
+					"southwest": {
+						"lat": 50.0620069697085,
+						"lng": 19.9314307197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "5c2801b6e4548410e4c8c89c0fbece6cb048ccd3",
+			"name": "C.K. Browar",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 1171,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/116892942817196331362/photos\">C.K. Browar</a>"
+					],
+					"photo_reference": "CoQBdwAAAJ0Lzc1P2fH7Icynr46RNVwkhLnxRcafFiYJz0lruMVRSVWSuyFkPy-wcMjAZZmTiurYnoL-Hm3SvUbLLQxNZe0B9xXtWjSop5LL3C7Fji6Hr73vZ-irSj2Yf9SqZyZg8rKCUMxMmhWbDgeRJPaiZYXbeRKv46GO_LfmR8iaxUOiEhASBz_zjh4QZguMgPTvnJThGhSBamuF7iELtAPEmJlW5Es5_uAbZw",
+					"width": 1173
+				}
+			],
+			"place_id": "ChIJf4Etug5bFkcRyq0rJ_UpcGk",
+			"rating": 4.1,
+			"reference": "CmRRAAAAx9O95JJPHwADmLZB71koJ8itK8LUt4jakxLlGVTOCrSymp6QvTAM1wXudtAcj6i54voQzPeTYsVaEl3Ij8jJIRBgEGMldXYb-qA5D0CFR3fKRqueXtE1aGzVwhc15qstEhBUGn-QbI15Tp_4HfT1FjxaGhQBLJq-ZXLhUwVYOsmyVHaLAGDA5Q",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Podwale 6, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.051021,
+					"lng": 19.946525
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0523808302915,
+						"lng": 19.9478679302915
+					},
+					"southwest": {
+						"lat": 50.0496828697085,
+						"lng": 19.9451699697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "3155a19646e83aedd806172a76b237fa33f5fc52",
+			"name": "Pub Wręga",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 1364,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/104559768505770767715/photos\">Pub Wręga</a>"
+					],
+					"photo_reference": "CoQBdwAAAJ1_rNfLKx2VfVyDl4gS0WPj2sod50N4JPooXzeSDFval3QKWNXp8TyMqTlZpF9pf4K2HzTsUWIqDfpgVktHJHTqkK0fo1lRx8Fb12klGFbtv_n86Mz0TNoLf8ZhYx356Ei-QyllwuNcdX2Rg9GLYGohWHuWQcpf236hZdELX_-YEhA0r2V-fHGBC7CPFv3v5zF5GhQyvLC4gJNFZvejReGI06mZC5AYeg",
+					"width": 1367
+				}
+			],
+			"place_id": "ChIJDXVa30FbFkcR01G4eVubqS8",
+			"rating": 4,
+			"reference": "CmRRAAAATUgRF3kSxzCa0lSetWJ33gtbB13MFtbY7oI1whwVclUnpgQVtEQ-Rs0aXdDRSj7bAw0JGJ8TOmq7whq7L6gYw4HZS-Ud0FfDb__zKoGDJZzfN94ix1q3M7VlTGEI-lBKEhAspziuWsXRRkA01tOEi-AIGhS5-Ycv76JlrXzi3oVK_ErbEpMxIw",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"art_gallery",
+				"bar",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Józefa 17, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0514314,
+					"lng": 19.9456747
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0527683802915,
+						"lng": 19.9469711802915
+					},
+					"southwest": {
+						"lat": 50.0500704197085,
+						"lng": 19.9442732197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "c42097fd2f00901d3ab73d966603e9233f9143c8",
+			"name": "Nova Resto Bar",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 3088,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/104815611946270852887/photos\">Taras Stasyuk</a>"
+					],
+					"photo_reference": "CoQBdwAAAP2TtoxNEWIzBJ8vV_rCJubFmExmGgdlNR-J7c2HQDh8K9_mZQfyuLMTdJaRZXLVViYAxuJ6LXz41m-YIEevTvARPTlXORhKppZsgiTSQ4mryJ1akkw1vV1NaIIrVts9cwrVIhqZ-UbhnHgrX5ZcjGSAiMtB8GQAGAaed5waHxg6EhAIxhEvFzgboA4r--XWn2gtGhRvtYYxY_I_LP868k8LcNiPaPQbiQ",
+					"width": 4160
+				}
+			],
+			"place_id": "ChIJQZ55ZWpbFkcRmHWXbkevRXc",
+			"rating": 4.2,
+			"reference": "CmRRAAAA8tiz7LqXgxZpeTwVNOy1CPWKove5sAH-spuINvwdU_vYWUu9QiYnLqA3UNfvsyC7h63EAbtVzN4z0WG2zDVBB8Bj0blHwR9rvssStQmJEywXqEbFrKVwZ_5imuzoifOZEhAuqR2G89HkjAHjCCA1dcHVGhRQwuZSTzRkjPENF88ZCjXnir3Cpw",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Estery 18, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.051894,
+					"lng": 19.94669
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0532536302915,
+						"lng": 19.9480947302915
+					},
+					"southwest": {
+						"lat": 50.0505556697085,
+						"lng": 19.9453967697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "3286ac3f2d6db4a5161adfac3e2ae97a1cbe2c4d",
+			"name": "Opium Music Club",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2592,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/101466305777546378165/photos\">Opium Music Club</a>"
+					],
+					"photo_reference": "CoQBdwAAACv1KvchS7pyCnTc4MRedUj1smD0VNiUDZbsk6iaPIJxtuhgYaZYYGy4v0ovKXxv9rPrGdBHpSYd9NNUyKJoSx2wJDVDXpjVeU7LC3ePqbOND7s63OEmJjS8BEVw3Srqo1EfRi07B37v7woaqoOrq95ueyXgb-ynEjhTkJCaxIS_EhAxBkGwIaUypSoPn3uqwUYSGhSmKSEnr0U9-FnR70VWs4lLemY2Og",
+					"width": 3872
+				}
+			],
+			"place_id": "ChIJeacifmpbFkcR3SMYP8-8Lbw",
+			"rating": 4.2,
+			"reference": "CmRSAAAAg0k0fnAcpAmmuZvir2QvD1zlFgVhr_7X0e6IjalloaAMMhyEUKEq6YjwECtulFlDu-h7WwzsILM7a-QN7uF9F3T6rw6sjoXK2tkqrXNkgLnYgmR6hWmZV6pzPORAojNzEhAhdCgWMlyVXy8xpXMLdXG0GhRSDFgRlfjw802migFRJfv_X-Semg",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Jakuba 19, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.059823,
+					"lng": 19.93605
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0611711802915,
+						"lng": 19.9374850302915
+					},
+					"southwest": {
+						"lat": 50.0584732197085,
+						"lng": 19.9347870697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "2d9fd4ac221fd51c17a5b7ff2c7ae0091bd90d4d",
+			"name": "Winoteka Winoman",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 1890,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/108088286127405133837/photos\">Winoteka Winoman</a>"
+					],
+					"photo_reference": "CoQBdwAAADq92PH106zL2vwBX19i4hfA8hH7MQxYm6v28p2r25xmal8QOKU4Neh95FX-vdPPBYDmrTOTMa0i0-XvzzcDmMzS4GVvLwdnlEgwF09hmKmUbrkTmscAf7QmE7BR0ZU7JUCfDKr3Yv27l14UhWU8L-dE0BTdWZsZtsemwPQcLiK5EhDyX9fSenqsyzSn2mciSUSvGhQJX-OsQdLjBCl3Ppf9IgTrZEaeoQ",
+					"width": 2835
+				}
+			],
+			"place_id": "ChIJf8hYRQ5bFkcRCv2-aUk27iM",
+			"rating": 4.7,
+			"reference": "CmRRAAAAUwEJqMIr9VuZbWQlUpyQ6XyjVIM6Ybsejh121voaGNenQSNJDcoYOzFrwmZ4AIN-Bo1Po1j4_Fq0Kf2fvT27XP41CA36UXItqf1kFm5OOF9wetW0tueoKDyfMcUOitaaEhB813fvcojOImWgQE8uATRbGhR9sfYtS2QuFKO-COqLwy3ePOmZTg",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"restaurant",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Bracka 15, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0504177,
+					"lng": 19.943316
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0517508802915,
+						"lng": 19.9446739302915
+					},
+					"southwest": {
+						"lat": 50.0490529197085,
+						"lng": 19.9419759697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "b087a98eddff1632f5ad5fdbe79da86836f90efe",
+			"name": "Strefa Piwa Pub",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2160,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/109325914821771187222/photos\">Tomek Toczek</a>"
+					],
+					"photo_reference": "CoQBdwAAAL9gK1ACQT-G-HFvz5IyG9EKztnitCVoDct-WRTWis7TRpnZBVXL5Ti_QeOsCcZiJT7SfUaGkbX2Csw-UNPEwWX3CA88fXIebrEiKZgoNguF1v7rHRMgJgd7MNS_m9RdiqBxehKuVC8yTVcinrzSp6npSCm5-3ggg1gTvNqrCXewEhCsprnHjbDjoUiHsp0zF4baGhTbql52Lvws9B7zkHo_DPgU60tJOA",
+					"width": 3840
+				}
+			],
+			"place_id": "ChIJ-QyMJGpbFkcR7gINGKIU_bs",
+			"rating": 4.6,
+			"reference": "CmRSAAAAIuNyF1xEV2Juh86WcCajrmugPFYtZ6KIpfR5BciXByr57Rmosj0WBEW404KVMXLpN5bzCF22QfZGnmvbuIIoQ9tidyVZ-4O8yhrlxrWauI3lFyHwvFjrqJWWN_HSsa59EhB6cZ34-lI05dIFL9ibJdbsGhQ22G7OycJiNp5kSWMHK1jSZzJjjQ",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Józefa 6, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.06397289999999,
+					"lng": 19.9365505
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0652654802915,
+						"lng": 19.9378559802915
+					},
+					"southwest": {
+						"lat": 50.0625675197085,
+						"lng": 19.9351580197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "f73e32a92de255b19eaa9d5acfb83c7bc828d91d",
+			"name": "Klub Społem",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 3120,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/111169556706990606511/photos\">Sebastian Trescinski</a>"
+					],
+					"photo_reference": "CoQBdwAAABLidlip_zMSxLGgrqHtr4vrhV3Ff7djDm3R3Xduq-pOOrysUe5iGbMunRNmwJ1P6En7k9DJzHfpn9ivVjZieY-tKDr9fRF4Qr-i5HPuFMolgxCHR19wung1phpmaIEHR24Xc_XTt9cAJrjtAMpYoOSFvdxCeS9_LEhi9Z7iShmAEhC-RhYb7KxNYvZ3fCwW1Cx1GhRObty2t56U9M9uaX97UpC4RX5O0w",
+					"width": 4160
+				}
+			],
+			"place_id": "ChIJa4jeUA5bFkcRPBz6_zJlAXg",
+			"rating": 4.2,
+			"reference": "CmRRAAAAcleh5plvp6WUDLpVIlxxAQ3GGwK40mmgkcmKSpJ9jxwkxp1_11XsnYHYcOYrUjg8odab-1mEz83zh1rTrjDgHiaOICZPTA8pSgfADP7R6bIrXm-Oo5L8HW5GKeYm5Ri7EhDwMkb-v-aMaNgJ2emdcxOrGhRyNjFdYkCg_rxfxP6LqDcfiVLfZg",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Świętego Tomasza 4, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0641003,
+					"lng": 19.9360367
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0654076302915,
+						"lng": 19.9373532802915
+					},
+					"southwest": {
+						"lat": 50.0627096697085,
+						"lng": 19.93465531970849
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "4184af560a7198d0072d276ae52ab67a37b2271c",
+			"name": "Bania-Luka",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 1840,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/108974675912037331839/photos\">Ola Partyka</a>"
+					],
+					"photo_reference": "CoQBdwAAAFUui6JMJ89UsdrHpSNAL-od8Megqxe9AnPrWCZRkPPcGTXDvxwKiikc3AKzfDzWALxIgFSd9LHigKBnNJdHPEM9kopzV68ruqw2F6sj62VlOY1vmMggxATSJd_FqPT_eteToVXMwLf9VIlFetp6Z_iGHt0oKjkn7m61YbK-z3LhEhDDsiCymijlnph8irgyb3b9GhQYJjiP1rcOBJcbGsm5UHIgP2K3xg",
+					"width": 3264
+				}
+			],
+			"place_id": "ChIJNaSf-A5bFkcRm9ykekA9l0Y",
+			"rating": 4.1,
+			"reference": "CmRRAAAANUfsfXNkPZoIGkFNiqQ1UIVDyEfOhF7l30qlPt-vv5Z1EBiQ_qIygGEFO3RAUAZeFRkjAAhqrD8Ku9A_D2QD5bj-N1ygny7c1w1JbDhg_tvJqZJUJHM6JHjl-NAl7kSpEhBrAbm3yvYZ4OmnGJCTSckhGhQfneRCbex1OmXgDXYdKsXGgb8HPA",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "plac Szczepański 6, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.06131,
+					"lng": 19.9389979
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06265898029149,
+						"lng": 19.9403468802915
+					},
+					"southwest": {
+						"lat": 50.0599610197085,
+						"lng": 19.9376489197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "8935a1171fdd2b8c694795ac90f40862f7676c58",
+			"name": "Hard Rock Cafe",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2988,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/117342197934315330619/photos\">Bart Komorowski</a>"
+					],
+					"photo_reference": "CoQBdwAAACsuvAJmovkG7taGmNSyuouSq4YhbfNSqmvGJhVCMh2H3wEHj_SQCvDwbb6y4zkhe0gEsLQCfpK2WaF0xQ79LzHJo2TPMlxBLQ5QWjCUgLtfUpJo2C9O9DkAiw5AEwfAJwjRai7iiMAu3pYGuhktZ8QvPrNKnimg6H2EDN-kUcVWEhCZ1g8HAL4IhaM2IMYv8l00GhTGVvzeMSHjQ6ZfedTQANbuSshosA",
+					"width": 5312
+				}
+			],
+			"place_id": "ChIJ7YL49xFbFkcRMUQg9S3QKcM",
+			"rating": 4.2,
+			"reference": "CmRSAAAArewb-4qlzry44XqHykx0OtL9u68FFuRYhPP6XDoFu2ft0OGgAtRtWAFXiZh4k-Jx2Dk09uIL6QgGBcMFwhR_4Yf4hOLIbVLNa40wK08v7JP1bQysOahdNkV2o7UI3D59EhBNb1uCHEfYYdGaRbi-c2_-GhTx7r1a0lb1JfoIyGmE4gcWURegNA",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"bar",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Rynek Glówny, Plac Mariacki 9, Krakow"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.07527369999999,
+					"lng": 19.9409071
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.07674238029148,
+						"lng": 19.9419924302915
+					},
+					"southwest": {
+						"lat": 50.07404441970849,
+						"lng": 19.9392944697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "97ba7c040497be1f6d82fe0cdaf1dc97a8e015a7",
+			"name": "PROMINENT The Original Lounge Bar",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2322,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/101131521247315299501/photos\">Miroslaw Gugula</a>"
+					],
+					"photo_reference": "CoQBdwAAAEnzNFPWJ9TKAU4bhprw24rUvDjqCSEDEI05p6vYzi2D3LnYJvDgVFTN4kXt9iZbe3qC4tkNeRW7QFnvWkV4C6_hfvV8DKQSMErAfee39xJRxQAGRp061wRWUzlEssVJUF74AHO6pvuqlkbEGMRt21a2RbLRiRc2Espg_du8cfxUEhDiSoS54ubbh6_UTD69seXnGhQZ8ZJUqOU1fLnme1Phm21D36IEyA",
+					"width": 4128
+				}
+			],
+			"place_id": "ChIJn7kHJwJbFkcRJINcVOHZymY",
+			"rating": 4.3,
+			"reference": "CmRRAAAAKcd16BHwXAV1dknMu9HtDuhJbgDFGBUwYSROoxVWOBbndYcHFa31fXXApUOIUp_y7l9qEVsSgiXbUN7cC41ZEFox0_wrhgvnI29bX0GcdOq1ATLOEwVS2aXZzovHqHN3EhCl4kUPZJmkmmEbYnL1NMyVGhS9kEwByoHEy9qygLCvYBU0devijg",
+			"scope": "GOOGLE",
+			"types": [
+				"night_club",
+				"bar",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Hala sportowo-widowiskowa Politechniki Krakowskiej, Kamienna 17, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0635919,
+					"lng": 19.9347236
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.06495323029149,
+						"lng": 19.9360840802915
+					},
+					"southwest": {
+						"lat": 50.06225526970849,
+						"lng": 19.9333861197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+			"id": "72c7767a5833f157eb332ee16de460e5296a0ba7",
+			"name": "Bomba. Klub",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 3264,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/117526005420182457752/photos\">Anna Długosz</a>"
+					],
+					"photo_reference": "CoQBdwAAAO9wh8CkwHLl8_fw0mFju4eCFITb3vaGkRRaFFYhspBmyLuNK4UioZ_LPdHDcKe_ELr3b0vASZktQFO1Ept_71zJ-LvBNV9LbnQUBzCchnPog-ytjKdpQ5PUr1zsj7Ze-sMJcGx3q_XsmrpYb6B1P5wAu6SKqq7gZkw4prpGQrwjEhDczzIhAVA4U-Lrsbjyf1JdGhTKQPN7pNtiD6acjq3zUjsKMok_fw",
+					"width": 1836
+				}
+			],
+			"place_id": "ChIJdZ3Y9A5bFkcRahcblcpK0B4",
+			"rating": 4.3,
+			"reference": "CmRRAAAACI_z6XFke2TI-Nc1oDWaiN2DBbJoVYq4mc-3hGSjL9ADdzO9CzmnGKE6vKz16dSjCLMzd3VXuXoF8v8OlIG8LW94hwWOKlIRpNkF9Qt0KqXCjXYLYuXHkxjWR46X6emFEhBpKLLamTzRzKVAjl6-Q_OgGhTA9BM8YO8QL-QSiLlXOEhp1Tmc3w",
+			"scope": "GOOGLE",
+			"types": [
+				"bar",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "plac Szczepański 2, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.064024,
+					"lng": 19.9363678
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0653403802915,
+						"lng": 19.9376095302915
+					},
+					"southwest": {
+						"lat": 50.0626424197085,
+						"lng": 19.9349115697085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+			"id": "5c868884cf12081d72ac1e4ea3918d974476f8f6",
+			"name": "The Square Club",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 589,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/104579000995168407555/photos\">The Square Club</a>"
+					],
+					"photo_reference": "CoQBdwAAAC-yO-MDcgBZVX-yFhMLn3qJuXEpJ1pSaEeV_8CAGW0Y5LUmTgz09zu0_vntW8NNxOqziPbsyejBhZ8mfBkZaKyGSivgH04YD_rgMCi0_Oy90Sxu-8tiIgBd3PTtIgeVFi0KD-ZWgf6qgYDppydHEe5_f_ffWHquq6uaYTkTAHRuEhAgPsSnFSFp-_AG3ia2xw33GhT95qnmc24-5rOkUcPLhXTIJU5PAQ",
+					"width": 589
+				}
+			],
+			"place_id": "ChIJYZ3jVg5bFkcR8kH3PieQOno",
+			"rating": 3.9,
+			"reference": "CmRRAAAAIGWnRmQojWDLca8rXwbw4wo0T_KE8ByqFWWpvRf3XddC5zs6QLexeODQp6wJZwlJaiIstVuGwfYkAxnf_SdjWS-YGi_PpaNW3V0ThiQg4v_QGXz-CKBYPtMNjrOEDI9uEhCnUXJZu6E-MdpDgXmrDFmEGhSerotGmX-sIvqqezK7vWv3v-koOg",
+			"scope": "GOOGLE",
+			"types": [
+				"night_club",
+				"bar",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "plac Szczepański 7, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0559208,
+					"lng": 19.9283589
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.0573273302915,
+						"lng": 19.9298094802915
+					},
+					"southwest": {
+						"lat": 50.0546293697085,
+						"lng": 19.9271115197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "1189c114ba6fb3e8911d60472221ee2674eaf022",
+			"name": "Restauracja Percheron",
+			"opening_hours": {
+				"open_now": false,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 2988,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/102943169110385405338/photos\">kazimierz piekarz</a>"
+					],
+					"photo_reference": "CoQBdwAAAA-0poXhfsoxiYaGuTY4_06pGZDbtd2OV2oS8MoHCnt8DcGUgUAJ2ubSW4AD0EBgKxyYa2npjfHH0gxFKWljKzsfghnjWt0kGOFKHKE6mkJ8c0rCBmxlnwBCXB6_WUANBENcyT_Ik-wx3A4-seBTcmoH5yEHymqK63JNsprhXBGTEhC7BxMLizPaMPjebY61RxLYGhTL6hpC2qQP9diNVgpAN4CcYSEF_A",
+					"width": 5312
+				}
+			],
+			"place_id": "ChIJkaRcEnNbFkcRDcY26k2iZGc",
+			"rating": 4.3,
+			"reference": "CmRRAAAAZx4dyyPliayUGnU0Jl2AwFfe3Md-qEiMBKt-FhlLx5yeXPMGOn3o7QqfkhAh6uT5-sELPPgmug8jBACYsfPKoJkDIhWM51NEr6hFPy4wei2mTH5lis0JcgMtMj51_ABlEhBIzv--RihIhF82jwGpdp1kGhTt5D5EZka3L9jcv1L2_gLQxmS5lA",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"cafe",
+				"bar",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "plac Kossaka 1, Kraków"
+		},
+		{
+			"geometry": {
+				"location": {
+					"lat": 50.0529989,
+					"lng": 19.9461569
+				},
+				"viewport": {
+					"northeast": {
+						"lat": 50.05440218029149,
+						"lng": 19.94747498029151
+					},
+					"southwest": {
+						"lat": 50.05170421970849,
+						"lng": 19.9447770197085
+					}
+				}
+			},
+			"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+			"id": "28545bd762479009e11c9c82ffb51f17741385e4",
+			"name": "Restauracja \"TREZO\"",
+			"opening_hours": {
+				"open_now": true,
+				"weekday_text": []
+			},
+			"photos": [
+				{
+					"height": 3840,
+					"html_attributions": [
+						"<a href=\"https://maps.google.com/maps/contrib/106113483814943241000/photos\">Fredrik Bergkvist</a>"
+					],
+					"photo_reference": "CoQBdwAAAHE_s3I2nUj60Pv2IUUqDj0zxScL83eyQnrtBTfrBiX9alZyTqZ9-dt5d3i1i_dUoPnGHz-WKv3YIVPQAvbAKp-ludSjQCDVHgdHkn6PuNuwMD_xERq8wJfMEknbi-10EhlKT6_7ZsbraesJiZsAe9HsnsoH_cC30qV4jn1FgH_zEhChxleFXOmw-tFakwVrnlCGGhRxqAyLlLkzJj4lq8qhDg_kwsJz_A",
+					"width": 2160
+				}
+			],
+			"place_id": "ChIJ3yzrl2pbFkcRn546lkZ_9FM",
+			"rating": 4.5,
+			"reference": "CmRRAAAAjvEZHsxhf8MozNeWwfAtzz2p8M5snwUSoaNvIY2j9x_F5VBE9tW2Nh1fqI8tFidq8DPOBZ1xr693_3Pl61yIh79iW7yRMsoT4eyojWU9gvisvjEl_MN0wIGl9Yr7wRCaEhB5HK5zamDJ-n2d366u9N1LGhQhjT2VP8ZVCay0L65nW2dtRqF3hQ",
+			"scope": "GOOGLE",
+			"types": [
+				"restaurant",
+				"cafe",
+				"bar",
+				"food",
+				"point_of_interest",
+				"establishment"
+			],
+			"vicinity": "Miodowa 33, Kraków"
+		}
+	],
+	"status": "OK"
+}

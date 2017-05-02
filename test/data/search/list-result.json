@@ -1,0 +1,222 @@
+[
+	{
+		"gogoleId": "155bcf5213b0ed87943a27cd88a3ad3be3207bba",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"name": "Radisson Blu Hotel, Krakow",
+		"rating": 4.3,
+		"vicinity": "Straszewskiego 17, Kraków",
+		"photo": "CoQBdwAAABDTchUpflslYEifKClvOGzG_R011moxo5CVlFpBrLUbtOAFCn_Od7uy4DR7ic2_5TJaAOu7v-zvtAo4tLaM9ZryqvwQEBYXBr3KsJ1vjCyEx4yqd73TjcLYi1nlt35uSUy9kHDIX5sEr8_3TkpdXxx4AENO_wz1XO5Xq6554E6CEhAFw6k4BOBlKucASLSCFxkAGhSLoBwRPFMklg4xD3OCaPELqttboQ",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "d361d4e282ac5569d0f12a9a3c6b3b844e2cbbe4",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"name": "andel's by Vienna House Cracow",
+		"rating": 4.6,
+		"vicinity": "Pawia 3, Kraków",
+		"photo": "CoQBdwAAAEU5LZ5hvt999M1nDZCyw8XLOQfIcbilB8gDvrWLprexY7qS7s0WIL3sYhWhTIZTVUiYbs0xDkgvWL4rGWNRFfFMxt_7EeCiYXcG3-QvURJQdBT6Ia2gdr6uXdXfHHHsSu9E581ciG3kv2nW6CbjKiOAvFKNwFROjPCQqB-RA7maEhC7JmuFL6N-xe-LOqUkOt5LGhTz5FCzsIBqz5jvLVQxP8wSMvxBAA",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "e7a15aa7eebef70168ead63e271fbc92fbf784fc",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+		"name": "Novotel Krakow Centrum",
+		"rating": 4.2,
+		"vicinity": "Tadeusza Kościuszki 5, Kraków",
+		"photo": "CoQBdwAAAFS1isscosvOCAvV6NEQ33r2w50X-G_x-qExm18CPPA7BbvMLn--hXWhUUI63Ka1otzeP5SOhnyNG5lS1EDNBqB7zVCQEqP1jF3o1-nwE0wwHoMYYraR-uKR2t01cRSmyfDQel3ttqWr5oA3x0GpfhbwBRnd8trbznYhNAIpuUd_EhAzh8WMJEFSrKCBYD8D-JxzGhSff-U-aicTtXhYiFQtj3NeNguRPw",
+		"openingHours": {
+			"openNow": null
+		}
+	},
+	{
+		"gogoleId": "4119a1241b5e95d2c6d4a0e79d8d59375de88517",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "House of Beer",
+		"rating": 4.6,
+		"vicinity": "Świętego Tomasza 35, Kraków",
+		"photo": "CoQBdwAAANSIsQO4hi2CYzXnIiLjHM1TUIF8uWux0lP_m54PaMhZhmCUuTP4jGz5XXfUdUPvTlBuF2L3jYLi8sjTiTfUywO00Ym73jHn9CaPH0fIpHvtilpOGTXGLUeLnUQul_RTQxuWuA71vsfxga_xSU3Bsir7bPrsxfh_Wzheqr0TGD6kEhAmzB7cw1tsPez2ep47YEo_GhSsjVFweAw6PyVolFA5VqkTyL4Hqw",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "27bbc655ebc4f49026f37b3d64c3eea98a84ec72",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"name": "Secret Garden in Kazimierz - club",
+		"rating": 4.1,
+		"vicinity": "plac Nowy 9, Kraków",
+		"photo": "CoQBdwAAAM25Yt8TOqBb1biMTyPGPbUE0_155JluFRAZVSWuibRSb3wM48EGARyG6JOchRobXBDRNlAwlg_ZJij0AXdEKa890z95G4UQLj9WNn5ElPuBmBti1TsrjW7rWlDSSTCy7kYZZJuCJPV1zf6CNK-r6U1OpwBwCjCP_gzLyJl1EEFWEhDkYatomNGn1jI_wW2Nr9LaGhSCTt5BV-nh1Uhy1h0QUIIX6pdIDw",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "e502cc3e0d870431bf6d2d11813847baab25fa3f",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"name": "Forty Kleparz. Klub muzyczny",
+		"rating": 4.2,
+		"vicinity": "Kamienna 2, Kraków",
+		"photo": "CoQBdwAAAHXRIqxFItI1eG2aWawY5r4SGVveyBOfNyLSdo8fIWtEaXIvxulk-HfiQLnYzMpoP-U9rlQFPvrvRPoGKL82lNEbzGEyMY1TjGqXbpBB-qfwT7G5QVkB3i2aHsmr2Mtim9OwQwln5RvZ6FHVLHVOs9hx9IKXDI9oz5YMdfUvOSCkEhCLWJGZx7QDEQr6ORiMWIe7GhR73ujzrQd4milaaUwXL22DXZajhA",
+		"openingHours": {
+			"openNow": null
+		}
+	},
+	{
+		"gogoleId": "5c2801b6e4548410e4c8c89c0fbece6cb048ccd3",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "C.K. Browar",
+		"rating": 4.1,
+		"vicinity": "Podwale 6, Kraków",
+		"photo": "CoQBdwAAAJ0Lzc1P2fH7Icynr46RNVwkhLnxRcafFiYJz0lruMVRSVWSuyFkPy-wcMjAZZmTiurYnoL-Hm3SvUbLLQxNZe0B9xXtWjSop5LL3C7Fji6Hr73vZ-irSj2Yf9SqZyZg8rKCUMxMmhWbDgeRJPaiZYXbeRKv46GO_LfmR8iaxUOiEhASBz_zjh4QZguMgPTvnJThGhSBamuF7iELtAPEmJlW5Es5_uAbZw",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "3155a19646e83aedd806172a76b237fa33f5fc52",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"name": "Pub Wręga",
+		"rating": 4,
+		"vicinity": "Józefa 17, Kraków",
+		"photo": "CoQBdwAAAJ1_rNfLKx2VfVyDl4gS0WPj2sod50N4JPooXzeSDFval3QKWNXp8TyMqTlZpF9pf4K2HzTsUWIqDfpgVktHJHTqkK0fo1lRx8Fb12klGFbtv_n86Mz0TNoLf8ZhYx356Ei-QyllwuNcdX2Rg9GLYGohWHuWQcpf236hZdELX_-YEhA0r2V-fHGBC7CPFv3v5zF5GhQyvLC4gJNFZvejReGI06mZC5AYeg",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "c42097fd2f00901d3ab73d966603e9233f9143c8",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "Nova Resto Bar",
+		"rating": 4.2,
+		"vicinity": "Estery 18, Kraków",
+		"photo": "CoQBdwAAAP2TtoxNEWIzBJ8vV_rCJubFmExmGgdlNR-J7c2HQDh8K9_mZQfyuLMTdJaRZXLVViYAxuJ6LXz41m-YIEevTvARPTlXORhKppZsgiTSQ4mryJ1akkw1vV1NaIIrVts9cwrVIhqZ-UbhnHgrX5ZcjGSAiMtB8GQAGAaed5waHxg6EhAIxhEvFzgboA4r--XWn2gtGhRvtYYxY_I_LP868k8LcNiPaPQbiQ",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "3286ac3f2d6db4a5161adfac3e2ae97a1cbe2c4d",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"name": "Opium Music Club",
+		"rating": 4.2,
+		"vicinity": "Jakuba 19, Kraków",
+		"photo": "CoQBdwAAACv1KvchS7pyCnTc4MRedUj1smD0VNiUDZbsk6iaPIJxtuhgYaZYYGy4v0ovKXxv9rPrGdBHpSYd9NNUyKJoSx2wJDVDXpjVeU7LC3ePqbOND7s63OEmJjS8BEVw3Srqo1EfRi07B37v7woaqoOrq95ueyXgb-ynEjhTkJCaxIS_EhAxBkGwIaUypSoPn3uqwUYSGhSmKSEnr0U9-FnR70VWs4lLemY2Og",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "2d9fd4ac221fd51c17a5b7ff2c7ae0091bd90d4d",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "Winoteka Winoman",
+		"rating": 4.7,
+		"vicinity": "Bracka 15, Kraków",
+		"photo": "CoQBdwAAADq92PH106zL2vwBX19i4hfA8hH7MQxYm6v28p2r25xmal8QOKU4Neh95FX-vdPPBYDmrTOTMa0i0-XvzzcDmMzS4GVvLwdnlEgwF09hmKmUbrkTmscAf7QmE7BR0ZU7JUCfDKr3Yv27l14UhWU8L-dE0BTdWZsZtsemwPQcLiK5EhDyX9fSenqsyzSn2mciSUSvGhQJX-OsQdLjBCl3Ppf9IgTrZEaeoQ",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "b087a98eddff1632f5ad5fdbe79da86836f90efe",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "Strefa Piwa Pub",
+		"rating": 4.6,
+		"vicinity": "Józefa 6, Kraków",
+		"photo": "CoQBdwAAAL9gK1ACQT-G-HFvz5IyG9EKztnitCVoDct-WRTWis7TRpnZBVXL5Ti_QeOsCcZiJT7SfUaGkbX2Csw-UNPEwWX3CA88fXIebrEiKZgoNguF1v7rHRMgJgd7MNS_m9RdiqBxehKuVC8yTVcinrzSp6npSCm5-3ggg1gTvNqrCXewEhCsprnHjbDjoUiHsp0zF4baGhTbql52Lvws9B7zkHo_DPgU60tJOA",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "f73e32a92de255b19eaa9d5acfb83c7bc828d91d",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "Klub Społem",
+		"rating": 4.2,
+		"vicinity": "Świętego Tomasza 4, Kraków",
+		"photo": "CoQBdwAAABLidlip_zMSxLGgrqHtr4vrhV3Ff7djDm3R3Xduq-pOOrysUe5iGbMunRNmwJ1P6En7k9DJzHfpn9ivVjZieY-tKDr9fRF4Qr-i5HPuFMolgxCHR19wung1phpmaIEHR24Xc_XTt9cAJrjtAMpYoOSFvdxCeS9_LEhi9Z7iShmAEhC-RhYb7KxNYvZ3fCwW1Cx1GhRObty2t56U9M9uaX97UpC4RX5O0w",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "4184af560a7198d0072d276ae52ab67a37b2271c",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "Bania-Luka",
+		"rating": 4.1,
+		"vicinity": "plac Szczepański 6, Kraków",
+		"photo": "CoQBdwAAAFUui6JMJ89UsdrHpSNAL-od8Megqxe9AnPrWCZRkPPcGTXDvxwKiikc3AKzfDzWALxIgFSd9LHigKBnNJdHPEM9kopzV68ruqw2F6sj62VlOY1vmMggxATSJd_FqPT_eteToVXMwLf9VIlFetp6Z_iGHt0oKjkn7m61YbK-z3LhEhDDsiCymijlnph8irgyb3b9GhQYJjiP1rcOBJcbGsm5UHIgP2K3xg",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "8935a1171fdd2b8c694795ac90f40862f7676c58",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"name": "Hard Rock Cafe",
+		"rating": 4.2,
+		"vicinity": "Rynek Glówny, Plac Mariacki 9, Krakow",
+		"photo": "CoQBdwAAACsuvAJmovkG7taGmNSyuouSq4YhbfNSqmvGJhVCMh2H3wEHj_SQCvDwbb6y4zkhe0gEsLQCfpK2WaF0xQ79LzHJo2TPMlxBLQ5QWjCUgLtfUpJo2C9O9DkAiw5AEwfAJwjRai7iiMAu3pYGuhktZ8QvPrNKnimg6H2EDN-kUcVWEhCZ1g8HAL4IhaM2IMYv8l00GhTGVvzeMSHjQ6ZfedTQANbuSshosA",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "97ba7c040497be1f6d82fe0cdaf1dc97a8e015a7",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "PROMINENT The Original Lounge Bar",
+		"rating": 4.3,
+		"vicinity": "Hala sportowo-widowiskowa Politechniki Krakowskiej, Kamienna 17, Kraków",
+		"photo": "CoQBdwAAAEnzNFPWJ9TKAU4bhprw24rUvDjqCSEDEI05p6vYzi2D3LnYJvDgVFTN4kXt9iZbe3qC4tkNeRW7QFnvWkV4C6_hfvV8DKQSMErAfee39xJRxQAGRp061wRWUzlEssVJUF74AHO6pvuqlkbEGMRt21a2RbLRiRc2Espg_du8cfxUEhDiSoS54ubbh6_UTD69seXnGhQZ8ZJUqOU1fLnme1Phm21D36IEyA",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "72c7767a5833f157eb332ee16de460e5296a0ba7",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"name": "Bomba. Klub",
+		"rating": 4.3,
+		"vicinity": "plac Szczepański 2, Kraków",
+		"photo": "CoQBdwAAAO9wh8CkwHLl8_fw0mFju4eCFITb3vaGkRRaFFYhspBmyLuNK4UioZ_LPdHDcKe_ELr3b0vASZktQFO1Ept_71zJ-LvBNV9LbnQUBzCchnPog-ytjKdpQ5PUr1zsj7Ze-sMJcGx3q_XsmrpYb6B1P5wAu6SKqq7gZkw4prpGQrwjEhDczzIhAVA4U-Lrsbjyf1JdGhTKQPN7pNtiD6acjq3zUjsKMok_fw",
+		"openingHours": {
+			"openNow": true
+		}
+	},
+	{
+		"gogoleId": "5c868884cf12081d72ac1e4ea3918d974476f8f6",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+		"name": "The Square Club",
+		"rating": 3.9,
+		"vicinity": "plac Szczepański 7, Kraków",
+		"photo": "CoQBdwAAAC-yO-MDcgBZVX-yFhMLn3qJuXEpJ1pSaEeV_8CAGW0Y5LUmTgz09zu0_vntW8NNxOqziPbsyejBhZ8mfBkZaKyGSivgH04YD_rgMCi0_Oy90Sxu-8tiIgBd3PTtIgeVFi0KD-ZWgf6qgYDppydHEe5_f_ffWHquq6uaYTkTAHRuEhAgPsSnFSFp-_AG3ia2xw33GhT95qnmc24-5rOkUcPLhXTIJU5PAQ",
+		"openingHours": {
+			"openNow": false
+		}
+	},
+	{
+		"gogoleId": "1189c114ba6fb3e8911d60472221ee2674eaf022",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"name": "Restauracja Percheron",
+		"rating": 4.3,
+		"vicinity": "plac Kossaka 1, Kraków",
+		"photo": "CoQBdwAAAA-0poXhfsoxiYaGuTY4_06pGZDbtd2OV2oS8MoHCnt8DcGUgUAJ2ubSW4AD0EBgKxyYa2npjfHH0gxFKWljKzsfghnjWt0kGOFKHKE6mkJ8c0rCBmxlnwBCXB6_WUANBENcyT_Ik-wx3A4-seBTcmoH5yEHymqK63JNsprhXBGTEhC7BxMLizPaMPjebY61RxLYGhTL6hpC2qQP9diNVgpAN4CcYSEF_A",
+		"openingHours": {
+			"openNow": false
+		}
+	},
+	{
+		"gogoleId": "28545bd762479009e11c9c82ffb51f17741385e4",
+		"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"name": "Restauracja \"TREZO\"",
+		"rating": 4.5,
+		"vicinity": "Miodowa 33, Kraków",
+		"photo": "CoQBdwAAAHE_s3I2nUj60Pv2IUUqDj0zxScL83eyQnrtBTfrBiX9alZyTqZ9-dt5d3i1i_dUoPnGHz-WKv3YIVPQAvbAKp-ludSjQCDVHgdHkn6PuNuwMD_xERq8wJfMEknbi-10EhlKT6_7ZsbraesJiZsAe9HsnsoH_cC30qV4jn1FgH_zEhChxleFXOmw-tFakwVrnlCGGhRxqAyLlLkzJj4lq8qhDg_kwsJz_A",
+		"openingHours": {
+			"openNow": true
+		}
+	}
+]

@@ -1,3 +1,6 @@
+'use strict';
+/* eslint camelcase:0 */
+
 const request = require('request-promise');
 const _ = require('lodash');
 
@@ -12,7 +15,9 @@ function processRawSearchResults(response) {
 			gogoleId: id,
 			icon,
 			name,
-			openingHours: opening_hours,
+			openingHours: {
+				openNow: opening_hours ? opening_hours.open_now : null,
+			},
 			rating,
 			vicinity,
 			photo: photos && photos.length ? photos[0].photo_reference : null
@@ -35,7 +40,7 @@ function saveSearchRequest(query) {
 }
 
 function normalizeQuery(string) {
-	return (string || '').toLowerCase().replace(/[^a-z0-9]/g, ' ').replace(/\s\s+/g, ' ');
+	return (string || '').toLowerCase().trim().replace(/[^a-z0-9]/g, ' ').replace(/\s\s+/g, ' ');
 }
 
 function search(rawQuery = '') {

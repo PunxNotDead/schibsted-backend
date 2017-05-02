@@ -22,6 +22,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
+    "chai-http": "^3.0.0",
     "express": "^4.15.2",
     "express-domain-middleware": "^0.1.0",
     "http-errors": "^1.6.1",
