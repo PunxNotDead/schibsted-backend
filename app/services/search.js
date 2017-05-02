@@ -34,7 +34,13 @@ function saveSearchRequest(query) {
 	};
 }
 
-function search(query = '') {
+function normalizeQuery(string) {
+	return (string || '').toLowerCase().replace(/[^a-z0-9]/g, ' ').replace(/\s\s+/g, ' ');
+}
+
+function search(rawQuery = '') {
+	const query = normalizeQuery(rawQuery);
+
 	return SearchRequest.findOne({
 		query
 	})
@@ -63,3 +69,4 @@ function search(query = '') {
 
 exports.search = search;
 exports.processRawSearchResults = processRawSearchResults;
+exports.normalizeQuery = normalizeQuery;
