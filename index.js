@@ -30,11 +30,11 @@ if (cluster.isMaster) {
 
 	app.use('/api', apiRouter);
 
-	/* app.use((err, req, res, next) => {
+	app.use((err, req, res, next) => {
 		res.status(500).send({
 			errors: [err.toString()]
 		});
-	}); */
+	});
 
 	const server = app.listen(config.get('port'), () => {
 		let host = server.address().address;

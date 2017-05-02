@@ -6,5 +6,7 @@
 	"apiKey": "AIzaSyA1aZwDVX9ZrNsZdxUMxEEzDcvbR-HzC48",
 	"radius": 2000,
 	"locationType": "bar",
-	"searchUrl": "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
+	"searchUrl": "https://maps.googleapis.com/maps/api/place/nearbysearch/json",
+	"photoUrl": "https://maps.googleapis.com/maps/api/place/photo",
+	"maxPhotoWidth": 300
 }

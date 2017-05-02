@@ -8,13 +8,14 @@ const SearchRequest = require('./mongoose').model('SearchRequest');
 function processRawSearchResults(response) {
 	const results = response && response.results ? response.results : [];
 
-	return _.map(results, ({id, icon, name, opening_hours, rating, vicinity}) => ({
-			id,
+	return _.map(results, ({id, icon, name, opening_hours, rating, vicinity, photos}) => ({
+			gogoleId: id,
 			icon,
 			name,
 			openingHours: opening_hours,
 			rating,
-			vicinity
+			vicinity,
+			photo: photos && photos.length ? photos[0].photo_reference : null
 		})
 	);
 }
@@ -51,9 +52,6 @@ function search(query = '') {
 				radius: config.get('radius'),
 				type: config.get('locationType'),
 				keyword: query
-			},
-			headers: {
-				'User-Agent': 'Request-Promise'
 			},
 			json: true
 		};

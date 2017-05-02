@@ -17,8 +17,9 @@ const SearchRequestSchema = new Schema({
 	},
 
 	results: [{
-		id: String,
+		gogoleId: String,
 		icon: String,
+		photo: String,
 		name: String,
 		openingHours: {
 			openNow: Boolean
