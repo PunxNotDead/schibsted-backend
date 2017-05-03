@@ -10,7 +10,7 @@
 
 * Edit connection string to MongoDb in proper (`/app/config/development.json` for developing or  `/app/config/test.json` for testing)
 
-* Changes some default search parameters (Google API key, search radius, type)
+* Change some default search parameters (Google API key, search radius, type)
 
 * `npm start`
 
