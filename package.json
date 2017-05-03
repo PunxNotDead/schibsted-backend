@@ -22,7 +22,6 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
-    "chai-http": "^3.0.0",
     "express": "^4.15.2",
     "express-domain-middleware": "^0.1.0",
     "http-errors": "^1.6.1",
@@ -33,8 +32,7 @@
     "mongoose": "^4.9.6",
     "nconf": "^0.8.4",
     "request": "^2.81.0",
-    "request-promise": "^4.2.0",
-    "validate.js": "^0.11.1"
+    "request-promise": "^4.2.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
