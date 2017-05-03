@@ -8,7 +8,7 @@
 
 * `npm i`
 
-* Edit connection string to MongoDb in proper (`/app/config/development.json` for developing or  `/app/config/test.json`)
+* Edit connection string to MongoDb in proper (`/app/config/development.json` for developing or  `/app/config/test.json` for testing)
 
 * Changes some default search parameters (Google API key, search radius, type)
 
@@ -16,21 +16,23 @@
 
 # Description
 
-By default apllication runned in cluster mode at localhost:3001, one fork per processor's core. Default database for use is `schibsted_task`.
+By default apllication runned in cluster mode at `http://localhost:3001`, one fork per processor's core. Default database for use is `schibsted_task`.
 
 If you want to run application in single instance mode, set `clusterMode: false` in config.
 
-If we want even more scalability, we can use load balances like [node-http-proxy](https://github.com/nodejitsu/node-http-proxy)
+If we want even more scalability, we can use load balances like [node-http-proxy](https://github.com/nodejitsu/node-http-proxy).
 
-When you are running tests, test isntalce will be runned at localhost:3002, and default test database is `schibsted_task_test`
+When you are running tests, test isntalce will be runned at localhost:3002, and default test database is `schibsted_task_test`.
 
 # API Methods
 
-* /api/search/list?query=MY_QUERY
-Searching for bars with additional query / keywords. Query param will be normalized, and then wi will check in database for search results, and respond with them if we have some. If we do not have, we will request Google, parse results, put it in our DB, and respond with results. Records in databse will persist only for one day (can be configured in config)
+* */api/search/list?query=MY_QUERY*
 
-* /api/photos/:reference
-Proxing image request to Google with passed reference
+Searching for bars with additional query / keywords. Query param will be normalized, and then wi will check in database for search results, and respond with them if we have some. If we do not have, we will request Google, parse results, put it in our DB, and respond with results. Records in databse will persist only for one day (can be configured in config).
+
+* */api/photos/:reference*
+
+Proxing image request to Google with passed reference.
 
 # Technologies
 
