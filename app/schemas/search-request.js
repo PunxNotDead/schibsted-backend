@@ -21,9 +21,6 @@ const SearchRequestSchema = new Schema({
 		icon: String,
 		photo: String,
 		name: String,
-		openingHours: {
-			openNow: Boolean
-		},
 		rating: Number,
 		vicinity: String
 	}],

@@ -14,6 +14,17 @@ const Search = require('../app/services/search');
 
 chai.use(chaiHttp);
 
+function validateListItem(item) {
+	expect(item).to.be.an('object');
+
+	expect(item).to.have.property('gogoleId').that.is.a('string');
+	expect(item).to.have.property('icon').that.is.a('string');
+	expect(item).to.have.property('name').that.is.a('string');
+	expect(item).to.have.property('rating').that.is.a('number');
+	expect(item).to.have.property('vicinity').that.is.a('string');
+	expect(item).to.have.property('photo').that.is.a('string');
+}
+
 describe('Search', () => {
 	describe('normalizeQuery', () => {
 		it('should return proper value for Non-epmty string', () => {
@@ -50,16 +61,7 @@ describe('Search', () => {
 
 			expect(result).to.be.instanceof(Array);
 
-			_.each(result, item => {
-				expect(item).to.be.an('object');
-
-				expect(item).to.have.property('gogoleId').that.is.a('string');
-				expect(item).to.have.property('icon').that.is.a('string');
-				expect(item).to.have.property('name').that.is.a('string');
-				expect(item).to.have.property('rating').that.is.a('number');
-				expect(item).to.have.property('vicinity').that.is.a('string');
-				expect(item).to.have.property('photo').that.is.a('string');
-			});
+			_.each(result, validateListItem);
 
 			expect(result).to.be.deep.equal(expected);
 		});
@@ -71,6 +73,8 @@ describe('Search', () => {
 				.get('/api/search/list')
 				.then(res => {
 					expect(res).to.have.status(200);
+
+					_.each(res.body, validateListItem);
 				});
 		})
 	});

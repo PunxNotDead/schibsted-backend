@@ -15,9 +15,6 @@ function processRawSearchResults(response) {
 			gogoleId: id,
 			icon,
 			name,
-			openingHours: {
-				openNow: opening_hours ? opening_hours.open_now : null,
-			},
 			rating,
 			vicinity,
 			photo: photos && photos.length ? photos[0].photo_reference : null
