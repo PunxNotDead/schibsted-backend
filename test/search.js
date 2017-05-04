@@ -11,6 +11,7 @@ const server = require('../index');
 const expect = chai.expect;
 
 const Search = require('../app/services/search');
+const SearchRequest = require('../app/services/mongoose').model('SearchRequest');
 
 chai.use(chaiHttp);
 
@@ -22,8 +23,16 @@ function validateListItem(item) {
 	expect(item).to.have.property('name').that.is.a('string');
 	expect(item).to.have.property('rating').that.is.a('number');
 	expect(item).to.have.property('vicinity').that.is.a('string');
-	expect(item).to.have.property('photo').that.is.a('string');
+	expect(item).to.have.property('photo').satisfy(photo => (_.isNull(photo) || _.isString(photo)));
 }
+
+before(done => {
+	SearchRequest.remove({})
+		.then(() => {
+			done(null);
+		})
+		.catch(done);
+});
 
 describe('Search', () => {
 	describe('normalizeQuery', () => {
@@ -69,13 +78,48 @@ describe('Search', () => {
 
 	describe('GET /api/search/list', () => {
 		it('should request Google and send processed response', () => {
-			return chai.request(server)
-				.get('/api/search/list')
-				.then(res => {
-					expect(res).to.have.status(200);
+			const query = 'beer';
+			const searchUrl = `/api/search/list?query=${encodeURIComponent(query)}`;
 
-					_.each(res.body, validateListItem);
-				});
+			function checkBeforeSearch(savedRequest) {
+				expect(savedRequest).to.be.null;
+			}
+
+			function checkResponseAndFindSaved(res) {
+				expect(res).to.have.status(200);
+
+				_.each(res.body, validateListItem);
+
+				return SearchRequest.findOne({query}).exec();
+			}
+
+			function checkIsResultSaved(savedRequest) {
+				expect(savedRequest).to.be.not.null;
+
+				_.each(savedRequest.results, validateListItem);
+			}
+
+			function getSavedRequestsResultsCount() {
+				return SearchRequest.count(query);
+			}
+
+			function checkSavedRequestsResultsCount(counter) {
+				expect(counter).to.be.equal(1);
+			}
+
+			function requestApi() {
+				return chai.request(server).get(searchUrl);
+			}
+
+			return SearchRequest.findOne({query})
+				.exec()
+				.then(checkBeforeSearch)
+				.then(requestApi)
+				.then(checkResponseAndFindSaved)
+				.then(checkIsResultSaved)
+				.then(requestApi)
+				.then(getSavedRequestsResultsCount)
+				.then(checkSavedRequestsResultsCount);
 		});
 	});
 });
