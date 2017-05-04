@@ -17,5 +17,4 @@ function getContent(reference) {
 	return request(options);
 }
 
-
 exports.getContent = getContent;

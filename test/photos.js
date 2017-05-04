@@ -2,17 +2,12 @@
 
 process.env.NODE_ENV = 'test';
 
-const _ = require('lodash');
 const chai = require('chai');
 const chaiHttp = require('chai-http');
 
 const server = require('../index');
 
-const should = chai.should();
 const expect = chai.expect;
-const assert = chai.assert;
-
-const Search = require('../app/services/search');
 
 chai.use(chaiHttp);
 
@@ -28,6 +23,6 @@ describe('Photos', () => {
 					expect(res.headers).to.be.an('object');
 					expect(res.headers['content-type']).to.be.equal('image/jpeg');
 				});
-		})
+		});
 	});
 });

@@ -8,9 +8,7 @@ const chaiHttp = require('chai-http');
 
 const server = require('../index');
 
-const should = chai.should();
 const expect = chai.expect;
-const assert = chai.assert;
 
 const Search = require('../app/services/search');
 
@@ -53,7 +51,7 @@ describe('Search', () => {
 			const expected = [];
 
 			expect(result).to.be.instanceof(Array);
-			expect(result).to.be.empty;
+			expect(result).to.be.deep.equal(expected);
 		});
 
 		it('should properly process response from Google', () => {
@@ -78,6 +76,6 @@ describe('Search', () => {
 
 					_.each(res.body, validateListItem);
 				});
-		})
+		});
 	});
 });

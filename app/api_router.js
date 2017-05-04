@@ -1,4 +1,5 @@
 'use strict';
+/* eslint new-cap:0 */
 
 const router = require('express').Router();
 

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon --debug ./index.js",
-    "eslint": "eslint ./app",
+    "eslint": "eslint ./app ./test",
     "precommit": "npm run eslint && npm test",
     "test": "mocha --timeout 10000"
   },
